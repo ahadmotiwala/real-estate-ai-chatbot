@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sample-project-a",
+    "name": "Sample Heights (DEMO DATA)",
+    "society": "Example Society, Karachi",
+    "area": "North Karachi (example only)",
+    "property_types": ["2-bed lounge", "2-bed DD"],
+    "payment_plan_months": 12,
+    "delivery_months": 12,
+    "price_min_pkr": null,
+    "price_max_pkr": null,
+    "availability": "unverified",
+    "verified": false,
+    "notes": "Fictional placeholder. Replace with verified project details before customer use."
+  },
+  {
+    "id": "sample-project-b",
+    "name": "Sample Residency (DEMO DATA)",
+    "society": "Example Society, Karachi",
+    "area": "Scheme 33 (example only)",
+    "property_types": ["2-bed lounge", "3-bed lounge"],
+    "payment_plan_months": 24,
+    "delivery_months": 24,
+    "price_min_pkr": null,
+    "price_max_pkr": null,
+    "availability": "unverified",
+    "verified": false,
+    "notes": "Fictional placeholder. Replace with verified project details before customer use."
+  }
+]
